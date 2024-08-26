@@ -1,0 +1,35 @@
+{
+    "adminModel": {
+        "fileName": "admins",
+        "status": "update"
+    },
+    "folderModel": {
+        "fileName": "folders",
+        "status": "update"
+    },
+    "channelModel": {
+        "fileName": "channel",
+        "status": "update"
+    },
+    "meterModel": {
+        "fileName": "meter",
+        "status": "update"
+    },
+    "parameterModel": {
+        "fileName": "parameter",
+        "status": "update"
+    },
+    "uspdModel": {
+        "fileName": "uspd",
+        "status": "update"
+    },
+    "journalModel": {
+        "fileName": "journal",
+        "status": "create",
+        "key": "date"
+    },
+    "schemaModel": {
+        "fileName": "schema",
+        "status": "update"
+    }
+}

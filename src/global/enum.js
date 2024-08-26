@@ -1,0 +1,17 @@
+module.exports.adminRolesList = ["super_admin", "admin", "user", "viewer"]
+module.exports.sessionType = ["trusted", "pendingToTrusted"]
+module.exports.notificationType = ['1', '2']
+module.exports.notificationCategory = ['Yuqori', 'Event']
+module.exports.modulesList = ["Main", "PowerPanel", "Gas", "Water"]
+module.exports.channelType = ['COM', 'TCP', 'GSM']
+module.exports.channelCOMCategory = ['optical', 'converter']
+module.exports.channelTCPCategory = ['client_server', 'server_client', 'peer_to_peer']
+module.exports.channelGSMCategory = ['gsm']
+module.exports.channelCategory = this.channelCOMCategory.concat(this.channelGSMCategory.concat(this.channelTCPCategory))
+module.exports.channelParityEnum = ["even", "mark", "none", "odd", "space"]
+module.exports.channelStopBitEnum = [1, 2, 3]
+module.exports.channelDataBitEnum = [6, 7, 8]
+module.exports.periodTypeEnum = ["weekly", "monthly"]
+module.exports.protocolUSPDEnum = ['MODBUS_TCP', 'MODBUS_RTU', 'HTTP']
+module.exports.stateList = ['successful', 'Failed', 'missed']
+module.exports.channelConnectionNumber = { client_server: 1, server_client: 2, peer_to_peer: 3, optical: 4, converter: 5, gsm: 6 }

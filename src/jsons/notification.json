@@ -1,0 +1,58 @@
+{
+    "1": {
+        "code": 1,
+        "title": "Yengi notification",
+        "type": "new",
+        "category": "Yuqori",
+        "who_for": ["super_admin", "admin", "user"],
+        "description": "Textimiz body qismi shularni nimadur qilish kere"
+    },
+    "2": {
+        "code": 2,
+        "title": "",
+        "type": "",
+        "category": "",
+        "who_for": [],
+        "description": ""
+    },
+    "3": {
+        "code": 3,
+        "title": "",
+        "type": "",
+        "category": "",
+        "who_for": [],
+        "description": ""
+    },
+    "4": {
+        "code": 4,
+        "title": "",
+        "type": "",
+        "category": "",
+        "who_for": [],
+        "description": ""
+    },
+    "5": {
+        "code": 5,
+        "title": "",
+        "type": "",
+        "category": "",
+        "who_for": [],
+        "description": ""
+    },
+    "6": {
+        "code": 6,
+        "title": "",
+        "type": "",
+        "category": "",
+        "who_for": [],
+        "description": ""
+    },
+    "7": {
+        "code": 7,
+        "title": "",
+        "type": "",
+        "category": "",
+        "who_for": [],
+        "description": ""
+    }
+}

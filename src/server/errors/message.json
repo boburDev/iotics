@@ -1,0 +1,23 @@
+{
+    "100": "Meter type not found!",
+    "101": "Error on TCP: ",
+    "102": "Error on SerialPort: ",
+    "103": "Invalid obis input!",
+    "104": "Connection failed!",
+    "105": "Cannot call write after a stream was destroyed!",
+    "106": "Incompleted data!",
+    "107": "Timeout Waiting for data no result in proccess!",
+    "108": "write after end!",
+    "109": "write status closed!",
+    "110": "Unrecognized error occurred!",
+    "111": "Port is not writable!",
+    "112": "Invalid port type!",
+    "113": "Lst data not fount try again!",
+    "114": "write error occupaed",
+    "115": "Modem connection failed!",
+    "116": "Modem connection failed on phone verification!",
+    "117": "Modem connection failed on close command",
+    "118": "Modem connection failed on end command",
+    "119": "Modem on connection!",
+    "120": "Unreadible value"
+}

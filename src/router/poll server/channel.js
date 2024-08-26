@@ -1,0 +1,10 @@
+const { Router } = require('express')
+const { checkTokenRout } = require('../../middleware/token')
+const { createChannel, listChannel, oneChannel, updateChannel, deleteChannel } = require('../../controller/poll server/channel')
+
+module.exports.routerChannel = Router()
+    .get('/list', checkTokenRout('all', 'poll_server', 'channel'), listChannel)
+    .get('/one/:id', checkTokenRout('one', 'poll_server', 'channel'), oneChannel)
+    .post('/create', checkTokenRout('create', 'poll_server', 'channel'), createChannel)
+    .patch('/update/:id', checkTokenRout('update', 'poll_server', 'channel'), updateChannel)
+    .delete('/remove/:id', checkTokenRout('remove', 'poll_server', 'channel'), deleteChannel)

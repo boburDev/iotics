@@ -1,0 +1,54 @@
+{
+    "trusted": {
+        "create": {
+            "admin": ["super_admin", "admin", "user", "viewer"],
+            "poll_server": ["channel", "uspd", "meter"]
+        },
+        "all": {
+            "admin": ["super_admin", "admin", "user", "viewer"],
+            "poll_server": ["channel", "uspd", "folder"]
+        },
+        "one": {
+            "admin": ["super_admin", "admin", "user", "viewer"],
+            "poll_server": ["channel", "folder", "meter", "uspd"],
+            "log": ["journal"]
+        },
+        "update": {
+            "admin": ["super_admin", "admin", "user", "viewer"],
+            "poll_server": ["channel", "folder", "meter", "uspd"]
+        },
+        "remove": {
+            "admin": ["super_admin", "admin", "user", "viewer"],
+            "poll_server": ["channel", "meter", "uspd"]
+        },
+        "activate": {
+            "admin": ["super_admin", "admin", "user", "viewer"]
+        }
+    },
+    "untrusted": {
+        "create": {
+            "admin": ["super_admin", "admin", "user", "viewer"],
+            "poll_server": ["channel", "uspd", "meter"]
+        },
+        "all": {
+            "admin": ["super_admin", "admin", "user", "viewer"],
+            "poll_server": ["channel", "uspd", "folder"]
+        },
+        "one": {
+            "admin": ["super_admin", "admin", "user", "viewer"],
+            "poll_server": ["channel", "folder", "meter", "uspd"],
+            "log": ["journal"]
+        },
+        "update": {
+            "admin": ["super_admin", "admin", "user", "viewer"],
+            "poll_server": ["channel", "folder", "meter", "uspd"]
+        },
+        "remove": {
+            "admin": ["super_admin", "admin", "user", "viewer"],
+            "poll_server": ["channel", "meter", "uspd"]
+        },
+        "activate": {
+            "admin": ["super_admin", "admin", "user", "viewer"]
+        }
+    }
+}

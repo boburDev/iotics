@@ -1,0 +1,10 @@
+const { Router } = require('express')
+const { createMeter, oneMeter, updateMeter, removeMeter, modelList } = require('../../controller/poll server/meter')
+const { checkTokenRout } = require('../../middleware/token')
+
+module.exports.routerMeter = Router()
+    .get('/one/:id', checkTokenRout('one', 'poll_server', 'meter'), oneMeter)
+    .get('/model-list', checkTokenRout('one', 'poll_server', 'meter'), modelList)
+    .post('/create', checkTokenRout('create', 'poll_server', 'meter'), createMeter) 
+    .patch('/update/:id', checkTokenRout('update', 'poll_server', 'meter'), updateMeter)
+    .delete('/remove/:id', checkTokenRout('remove', 'poll_server', 'meter'), removeMeter)

@@ -1,0 +1,48 @@
+{
+    "trusted": {
+        "create": {
+            "admin": [],
+            "poll_server": ["channel", "uspd", "meter"]
+        },
+        "all": {
+            "admin": [],
+            "poll_server": ["channel", "uspd", "folder"]
+        },
+        "one": {
+            "admin": [],
+            "poll_server": ["channel", "folder", "meter", "uspd"],
+            "log": ["journal"]
+        },
+        "update": {
+            "admin": [],
+            "poll_server": ["channel", "folder", "meter", "uspd"]
+        },
+        "remove": {
+            "admin": [],
+            "poll_server": ["channel", "meter", "uspd"]
+        },
+        "activate": {
+            "admin": []
+        }
+    },
+    "untrusted": {
+        "create": {
+            "admin": []
+        },
+        "all": {
+            "admin": []
+        },
+        "one": {
+            "admin": []
+        },
+        "update": {
+            "admin": []
+        },
+        "remove": {
+            "admin": []
+        },
+        "activate": {
+            "admin": []
+        }
+    }
+}

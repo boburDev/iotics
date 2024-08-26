@@ -1,0 +1,10 @@
+const { Router } = require('express')
+const { createUSPD, listUSPD, oneUSPD, updateUSPD, removeUSPD } = require('../../controller/poll server/uspd')
+const { checkTokenRout } = require('../../middleware/token')
+
+module.exports.routerUSPD = Router()
+    .get('/list', checkTokenRout('all', 'poll_server', 'uspd'), listUSPD)
+    .get('/one/:id', checkTokenRout('one', 'poll_server', 'uspd'), oneUSPD)
+    .post('/create', checkTokenRout('create', 'poll_server', 'uspd'), createUSPD)
+    .patch('/update/:id', checkTokenRout('update', 'poll_server', 'uspd'), updateUSPD)
+    .delete('/delete/:id', checkTokenRout('remove', 'poll_server', 'uspd'), removeUSPD)

@@ -1,0 +1,290 @@
+{
+    "0.000.000": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.001.000": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 400,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.002.000": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 400,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.003.000": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 400,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.004.000": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 400,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.005.000": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.005.001": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 404,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.005.002": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 404,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.005.003": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.005.004": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.005.005": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.005.006": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "Aka sizni tanimadim",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.006.000": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.006.001": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.007.000": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.007.001": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.007.002": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.007.003": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.008.000": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.008.001": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 406,
+        "message": "Unauthorized",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.008.002": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 408,
+        "message": "last active is older than 180 days",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.008.003": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 406,
+        "message": "Access Token is invalid",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.008.004": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 400,
+        "message": "cannot access route",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.008.005": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 401,
+        "message": "Unauthorized",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.008.006": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 406,
+        "message": "Refresh Token is invalid",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.008.007": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "Refresh Token is invalid",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.008.008": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "Refresh Token is invalid",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.008.009": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "Refresh Token is invalid",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.008.010": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "Refresh Token is invalid",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.008.011": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 500,
+        "message": "Refresh Token is invalid",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.011.001": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 406,
+        "message": "Noto'g'ri token",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.014.000": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 404,
+        "message": "Not Found",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.053.003": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 400,
+        "message": "Siz bergan indexlarda ma'lumot chiqmadi",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.032.003": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 406,
+        "message": "Noto'g'ri token",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.032.000": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 406,
+        "message": "Noto'g'ri token",
+        "description": "",
+        "recommendations": ""
+    },
+    "0.032.004": {
+        "codeForUser": "",
+        "operation": "",
+        "status": 404,
+        "message": "Siz uchun bu rout yopiq",
+        "description": "",
+        "recommendations": ""
+    }
+}
